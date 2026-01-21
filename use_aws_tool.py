@@ -19,9 +19,14 @@ agent = Agent(model = "us.anthropic.claude-3-5-sonnet-20241022-v2:0",
 
 #query="load file 'disk_tickets.json' and show its complete content in a table format where column names are fields of json file"
 
-#query="create empty dynamoDB table 'service_tickets' with partition key 'ticket_id' and sort key 'key_phrase' in us-east-1 region" 
+query="create empty dynamoDB table 'service_tickets' with partition key 'ticket_id' and sort key 'key_phrase' in us-east-1 region" 
 
 #query="count number of records in dynamodb table 'service_tickets' in us-east-1"
+
+#query="count number of records in dynamodb table 'service_tickets' in us-east-1 and refer to is as rec_num. then readl file from 'access_tickets.json' from tickets_dataset folder, enumerate each record using ticket_id field of type str starting from rec_num + 1 formated as string of lenth 4 with preceeding zeros. show result in table format where column names are names of record fields. finally push updated records into dynamodb table 'service_tickets' in us-east-1"
+
+#query = "show me content of 'disk_tickets.json' file"
+
 
 query = "show me content of 'disk_tickets.json' file"
 
