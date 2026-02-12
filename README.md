@@ -7,7 +7,9 @@ Examples and utilities for building **agentic AI** applications with the [Strand
 ## Course
 
 - **Channel:** [Phi-AI on YouTube](https://www.youtube.com/@phiai1618)
-- **Playlist:** [AI Lectures]([https://www.youtube.com/playlist?list=PLlkpOeXz5iWzqfNyllm5UyOTKpsm1MQbv](https://www.youtube.com/watch?v=N9QEReNO1no&list=PLlkpOeXz5iWyN3lQi3WlHrrRWeMXJRYxh))
+- **Playlist:** [AI Lectures](https://www.youtube.com/watch?v=N9QEReNO1no&list=PLlkpOeXz5iWyN3lQi3WlHrrRWeMXJRYxh)
+- **Video about Vended Tools:** [AI Lectures](https://www.youtube.com/watch?v=ad-eQFnZySI&list=PLlkpOeXz5iWyN3lQi3WlHrrRWeMXJRYxh&index=2)
+- **Video about LLMs Tools:** [AI Lectures](https://www.youtube.com/watch?v=ad-eQFnZySI&list=PLlkpOeXz5iWyN3lQi3WlHrrRWeMXJRYxh&index=1)
 
 
 ## Overview
