@@ -1,5 +1,8 @@
 # Agent hooks (AWS Strands)
 
+
+![Intro Lecture AWS Strands Thumb](AWS%20Strands%20Agents%20Hooks%20and%20Callbacks%20label.png)
+
 Small Python examples that show how to observe an [AWS Strands](https://github.com/strands-agents/sdk-python) `Agent` with lifecycle hooks while using **Amazon Bedrock** (`BedrockModel`, Nova).
 
 ## Contents
